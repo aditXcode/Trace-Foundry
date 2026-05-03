@@ -1,0 +1,25 @@
+# ═══════════════════════════════════════════════════
+# Trace Foundry V8.5 — Requirements
+# Install: pip install -r requirements.txt --break-system-packages
+# ═══════════════════════════════════════════════════
+
+# Networking & HTTP/2
+httpx[http2]
+aiohttp
+aiolimiter
+
+# Browser Automation (DOM-XSS)
+playwright
+# After install: playwright install chromium
+
+# Parsing
+beautifulsoup4
+lxml
+tldextract
+
+# UI & Logging
+loguru
+rich
+
+# Standard lib — no install needed:
+# socket ssl urllib json re threading time uuid hashlib statistics
