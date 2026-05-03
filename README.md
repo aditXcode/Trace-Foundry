@@ -62,10 +62,10 @@ Note: All core modules work without external dependencies using the Python stand
 
 Examples:
 
-    python3 main.py nasa.gov start
-    python3 main.py globe.gov vuln --threads 60
-    python3 main.py nsc.nasa.gov stealth --timeout 10
-    python3 main.py nspires.nasaprs.com api
+    python3 main.py target.com start
+    python3 main.py nasa.gov vuln --threads 60
+    python3 main.py app.co  stealth --timeout 10
+    python3 main.py openai api
     python3 main.py target.go.id recon --out json
     python3 main.py app.target.ac.id cms --resume
 
