@@ -2,7 +2,7 @@
 
 Bug Bounty Reconnaissance and Vulnerability Scanner
 
-Trace Foundry is an open-source security research tool designed for authorized bug bounty hunting and penetration testing. It combines 40 specialized scanning modules with 8 Anti-False-Positive engines to deliver accurate, actionable findings across any web target.
+Trace Foundry is an open-source security research tool designed for authorized bug bounty hunting and penetration testing. It combines 40 specialized scanning modules with 8 Anti-False-Positive engines to deliver accurate, actionable findings across any web target. These projects do not 100% guarantee to find a tested security loophole
 
 ---
 
